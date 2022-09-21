@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+form {
+    width: 350px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+    border: 1px solid rgb(156, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1{
+    font-size: 30px;
+    
+}
+label, text{
+    display: inline;
+    width: 150px;  
+}
+input, text{
+    display: inline;
+    width: 100px;
+}
+textarea{
+    width: 100px;
+}
+
+
+/*margin: 0 auto ;
+width: 500px;
+padding: 1em ;
+border: 1px solid #CCC;
+border-radius: 1em;*/
