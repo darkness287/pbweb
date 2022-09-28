@@ -32,13 +32,13 @@ textarea{
 .in{
     border: none;
     border-radius: 15px;
-    padding: 15px 25px;
     outline: none;
     background-color: rgb(9, 78, 148);
     color: rgb(112, 31, 31);
-    font-size: 18px;
+    font-size: 15px;
     box-shadow: 10px 10px rgba(36, 0, 240, 0.938);
     cursor: pointer;
+    height: 30px;
     
 }
 
